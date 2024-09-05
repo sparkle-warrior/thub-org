@@ -5,7 +5,7 @@ chat with us on discord! [![Discord](https://img.shields.io/badge/Discord-7289DA
 
 ### TODO
 * [ ] define scope
-* [ ] page template
+* [x] page template
 * [ ] link to guides (how to edit and contribute etc)
 * [ ] key questions by country
 * [ ] key resources and links by country

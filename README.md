@@ -5,9 +5,13 @@ holder of all the pending, work in progress and other undefined stuff
 
 
 ### TODO
-* [ ] define scope
+* [x] define scope
 * [x] page template
 * [ ] link to guides (how to edit and contribute etc)
-* [ ] key questions by country
-* [ ] key resources and links by country
+* [x] key questions by country
+* [x] key resources and links by country
 * [ ] the good bad ugly of each country
+* [ ] interview and survey
+* [ ] improve mobile layout
+* [ ] handle translated page versions
+* [ ] improve landing page before friday 13/09/2024
